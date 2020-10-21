@@ -1,6 +1,6 @@
 # Express File Server
 
-## A very simple file server used to serve files from a given public directory.
+### A very simple file server used to serve files from a given public directory.
 
 The directory is provided via the env var `PUBLIC_DIR`.
 
